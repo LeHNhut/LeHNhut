@@ -1,16 +1,34 @@
-## Hi there 👋
+<h2 align="center">👋 Hello! I'm Nhut.</h2>
+<p align="center">
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
 
-<!--
-**LeHNhut/LeHNhut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently 
+- 💬 Ask me about **SQL, Git and Java**
+- 📫 How to reach me:
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-------
+
+**📝 Latest Blog Posts**
+
+<!-- BLOG-POST-LIST:START -->
+--
+-
+
+<!-- BLOG-POST-LIST:END -->
+
+-------
+
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
+
+-------
